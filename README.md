@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Not a Bug free Programmer (yet),But I'm learning<br>👯 I’m looking to collaborate on MERN Stack <br>🌱 I’m currently learning Data Structures and Algorithm<br>👨‍💻 All of my projects are available at https://github.com/Ayeshabakash?tab=repositories<br>📫 How to reach me ayeshanish04@gmail.com<br>📄 Know about my experiences <br> <br>
+🔭 Not a Bug free Programmer (yet),But I'm learning<br>👯 I’m looking to collaborate on MERN Stack <br>🌱 I’m currently learning Data Structures and Algorithm<br>👨‍💻 All of my projects are available at https://github.com/Ayeshabakash?tab=repositories<br>📫 How to reach me ayeshanish04@gmail.com<br> 📄 Know about my experiences <br> <br>
 
 
 ## 🌐 Socials:
